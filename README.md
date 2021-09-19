@@ -6,7 +6,7 @@ Estarei compartilhando alguns dos sistemas que criar durante o aprendizado aqui 
 
 📫 Contato:
 - Whatsapp: +55 (84) 99961-6172
-            https://api.whatsapp.com/send?phone=5584999616172&text=Ol%C3%A1%2C%20vim%20pelo%20seu%20github.
+-            https://api.whatsapp.com/send?phone=5584999616172&text=Ol%C3%A1%2C%20vim%20pelo%20seu%20github.
 - Linkedin: https://www.linkedin.com/in/suesley/
 - Email: contato@suesley.com.br
 - Site: https://suesley.com.br
